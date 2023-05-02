@@ -57,15 +57,15 @@ global.mess = (type, m, options = {}) => {
 global.options = {
 	public: true,
 	URI: "./temp/database.json", // support mongo 
-	owner: ["6288292024190", "6285815663170"],
+	owner: ["6288975468930", "6285815663170"],
 	pathCommand: 'commands'
 }
 global.Exif = {
-	packId: "https://instagram.com/cak_haho",
-	packName: `Sticker ini Dibuat Oleh :\nhttps://instagram.com/cak_haho\n\nPada :\n${Function.tanggal(new Date())} Pukul ${Function.jam(new Date())} WIB\n\nOleh :\nDika Ardnt.`,
-	packPublish: "Dika Ardnt.",
+	packId: "https://instagram.com/bangr_xd_shop",
+	packName: `Sticker ini Dibuat Oleh :\nhttps://instagram.com/bamgr_xd_shop\n\nPada :\n${Function.tanggal(new Date())} Pukul ${Function.jam(new Date())} WIB\n\nOleh :\nRafiMaker01.`,
+	packPublish: "RafiMaker01.",
 	packEmail: "dika.ardianta7@yahoo.com",
-	packWebsite: "https://instgaram.com/cak_haho",
+	packWebsite: "https://instgaram.com/bangr_xd_shop",
 	androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
 	iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
 	categories: ['😹', '😎', '😱'],
